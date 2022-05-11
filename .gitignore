@@ -1,0 +1,15 @@
+my_product.img
+system_ext/priv-app/SystemUI/SystemUI.apk
+system_ext/priv-app/Settings/Settings.apk
+bootRE/boot.elf
+modem.img
+recovery.img
+boot.img
+vendor_dlkm.img
+my_bigball.img
+vendor_boot.img
+odm/etc/camera/license_release_fdc.lic
+odm/etc/camera/model/license.lic
+odm/etc/camera/3dphoto/color_depth_inpaint.dlc
+my_stock.img
+my_heytap.img
